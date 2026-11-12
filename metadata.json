@@ -1,0 +1,6 @@
+{
+  "name": "蒼翠水鏡：遠古魚王傳說",
+  "description": "融合療癒奇幻水神傳說與高精度 Three.js 3D 物理垂釣體驗的獨立冒險遊戲。探索四大秘境水域、鍛造傳奇釣具、完成生態委託並喚醒沉睡的遠古水神。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
